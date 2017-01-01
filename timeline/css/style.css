@@ -59,21 +59,19 @@ Modules - reusable parts of our design
 Main components 
 
 -------------------------------- */
-header {
-  height: 200px;
-  line-height: 200px;
+/*header {
   text-align: center;
   /*background: #303e49;*/
-}
+}*/
 header section{
     background-image: url(../../images/banner.jpg)
 }
-header h1 {
+/*header h1 {
   color: white;
   font-size: 18px;
   font-size: 1.125rem;
-}
-@media only screen and (min-width: 1170px) {
+}*/
+/*@media only screen and (min-width: 1170px) {
   header {
     height: 300px;
     line-height: 300px;
@@ -82,7 +80,7 @@ header h1 {
     font-size: 24px;
     font-size: 1.5rem;
   }
-}
+}*/
 
 #cd-timeline {
   position: relative;
