@@ -63,7 +63,10 @@ header {
   height: 200px;
   line-height: 200px;
   text-align: center;
-  background: #303e49;
+  /*background: #303e49;*/
+}
+header section{
+    background-image: url(../../images/banner.jpg)
 }
 header h1 {
   color: white;
